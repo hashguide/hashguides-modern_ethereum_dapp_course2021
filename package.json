@@ -1,0 +1,10 @@
+{
+  "name": "react-dapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Stephen Arsenault <hashguide@thecryptoist.com> (https://thecryptoist.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^4.0.3"
+  }
+}
