@@ -11,4 +11,4 @@ Check out the Lesson 1 Course Video on YouTube [https://youtube.com/hashguide](h
 - [https://instagram.com/thecryptoist](https://instagram.com/thecryptoist)
 - [https://facebook.com/thecryptoist](https://facebook.com/thecryptoist)
 
-**_If this repo helped you, make sure to star for the next blockchain dev beginner._**
+**_If this repo helped you, make sure to star for the next blockchain dev beginners lessons._**
